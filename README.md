@@ -1,4 +1,3 @@
-
 # Secure Login System using Java
 
 This project demonstrates a simple user registration and login system.
